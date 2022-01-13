@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.pytest_cache
+.hypothesis/
+build/
+interfaces/
+reports/
+scripts/
+tests/
+brownie-config.yml
